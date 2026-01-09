@@ -104,5 +104,4 @@ def main(page: ft.Page):
         favorites_text,
     )
 
-
 ft.app(target=main)
